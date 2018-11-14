@@ -1,0 +1,39 @@
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\bin\Debug\Bdai.exe.config
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\bin\Debug\Bdai.exe
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\bin\Debug\Bdai.pdb
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\obj\Debug\Bdai.csprojResolveAssemblyReference.cache
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\obj\Debug\Bdai.Form1.resources
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\obj\Debug\Bdai.Properties.Resources.resources
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\obj\Debug\Bdai.csproj.GenerateResource.Cache
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\obj\Debug\Bdai.exe
+c:\users\filipa\documents\visual studio 2015\Projects\Bdai\Bdai\obj\Debug\Bdai.pdb
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\bin\Debug\Bdai.exe.config
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\obj\Debug\Bdai.exe
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\obj\Debug\Bdai.pdb
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\bin\Debug\Bdai.exe
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\bin\Debug\Bdai.pdb
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\obj\Debug\Bdai.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\obj\Debug\Bdai.form1.resources
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\obj\Debug\Bdai.Properties.Resources.resources
+C:\Users\User\Desktop\Bdai\Bdai\Bdai\obj\Debug\Bdai.csproj.GenerateResource.Cache
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\bin\Debug\Bdai.exe.config
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\obj\Debug\Bdai.exe
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\obj\Debug\Bdai.pdb
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\bin\Debug\Bdai.exe
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\bin\Debug\Bdai.pdb
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\obj\Debug\Bdai.csprojResolveAssemblyReference.cache
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\obj\Debug\Bdai.form1.resources
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\obj\Debug\Bdai.Properties.Resources.resources
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\Bdai\obj\Debug\Bdai.csproj.GenerateResource.Cache
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\bin\Debug\Bdai.exe.config
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\obj\Debug\Bdai.exe
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Bdai\Bdai\obj\Debug\Bdai.pdb
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\bin\Debug\Bdai.exe.config
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\obj\Debug\Bdai.exe
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\obj\Debug\Bdai.pdb
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\bin\Debug\Bdai.exe
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\bin\Debug\Bdai.pdb
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\obj\Debug\Bdai.csprojResolveAssemblyReference.cache
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\obj\Debug\Bdai.form1.resources
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\obj\Debug\Bdai.Properties.Resources.resources
+D:\Filipa\OneDrive - Universidade de Coimbra\4ºano\FRB\Projeto\Projeto FRB\Bdai\Bdai\obj\Debug\Bdai.csproj.GenerateResource.Cache
